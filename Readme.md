@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width:300px;height:300px;" src="">
+  <img style="width:300px;height:300px;" src="https://raw.githubusercontent.com/EricAnderson-AAI/UIColor-EAHexColor/master/xcode-icon.png">
 </p>
 
 UIColor+EAHexColor
